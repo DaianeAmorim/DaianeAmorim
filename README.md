@@ -1,4 +1,4 @@
-###  Hello, my name is Daiane Amorim! <img align="right" alt="Kevin" height="150" width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0846526-c449-4b28-b8df-c8206d89390b/d9y7bg3-66f0eb7a-2e03-4c92-8e4e-e5a78c39ca58.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YwODQ2NTI2LWM0NDktNGIyOC1iOGRmLWM4MjA2ZDg5MzkwYlwvZDl5N2JnMy02NmYwZWI3YS0yZTAzLTRjOTItOGU0ZS1lNWE3OGMzOWNhNTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EIGcrJskcixAWYOgPY4kcpAHzY7-ij6NiqYXzC919ok" />
+###  Hello, my name is Daiane Amorim! <img align="right" alt="Daiane" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"/>
 - :telescope: I am currently studying at PUC-Campinas, studying the 2nd year of software engineering.
 - :seedling: Learning HTML, CSS and Java Script
 - :computer: Looking for internships.
