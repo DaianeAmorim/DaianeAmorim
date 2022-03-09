@@ -1,4 +1,4 @@
-###  Hello, my name is Daiane Amorim! <img align="right" alt="Kevin" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" />
+###  Hello, my name is Daiane Amorim! <img align="right" alt="Kevin" height="150" width="250" src="https://miro.medium.com/max/960/1*89xL_--7GIoVjXairvk-1w.gif" />
 - :telescope: I am currently studying at PUC-Campinas, studying the 2nd year of software engineering.
 - :seedling: Learning HTML, CSS and Java Script
 - :computer: Looking for internships.
