@@ -1,4 +1,4 @@
-###  Hello, my name is Daiane Amorim! <img align="right" alt="Daiane" height="150" width="250" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
+###  Hello, my name is Daiane Amorim! <img align="right" alt="Daiane" height="200" width="300" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 - :telescope: I am currently studying at FIAP, studying the 2nd year of Analysis and Systems Development.
 - :seedling: Learning HTML, CSS and Java Script.
   ##
