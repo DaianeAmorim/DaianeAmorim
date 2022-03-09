@@ -1,5 +1,5 @@
-###  Hello, my name is Daiane Amorim! <img align="right" alt="Daiane" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" />
-- :telescope: I am currently studying at PUC-Campinas, studying the 2nd year of software engineering.
+###  Hello, my name is Daiane Amorim! <img align="right" alt="Daiane" height="150" width="250" src="https://onl.st/revista-tpm-mulheres-hackers-2/assets/7.gif" />
+- :telescope: I am currently studying at FIAP - Instituição de Ensino Superior SP, studying the 2nd year of Analysis and Systems Development.
 - :seedling: Learning HTML, CSS and Java Script.
   ##
 <div align="center">
@@ -14,9 +14,9 @@
 </div>
   <div>
     <p></p>
-  <a href="https://www.instagram.com/kevinrsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=dark" target="_blank"></a>
-  <a href = "mailto:kivim2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/kevin-silva-back-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/dai_29d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=dark" target="_blank"></a>
+  <a href = "mailto:ddas.daia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/daiane-diniz-amorim-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   ![Snake animation](https://github.com/Kevin-Silva-Dev/Kevin-Silva-Dev/blob/output/github-contribution-grid-snake.svg)
 </div>
