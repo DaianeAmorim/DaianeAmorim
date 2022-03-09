@@ -1,7 +1,6 @@
 ###  Hello, my name is Daiane Amorim! <img align="right" alt="Daiane" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"/>
 - :telescope: I am currently studying at PUC-Campinas, studying the 2nd year of software engineering.
 - :seedling: Learning HTML, CSS and Java Script
-- :computer: Looking for internships.
   ##
 <div align="center">
   <a href="https://github.com/DaianeAmorim">
