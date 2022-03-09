@@ -1,9 +1,9 @@
-###  Hello, my name is Kevin Silva! <img align="right" alt="Kevin" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" />
+###  Hello, my name is Daiane Amorim! <img align="right" alt="Daiane" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" />
 - :telescope: I am currently studying at PUC-Campinas, studying the 2nd year of software engineering.
-- :seedling: Learning C++, Java, C#, Python, Typescript, Node and Spring.
+- :seedling: Learning HTML, CSS and Java Script.
   ##
 <div align="center">
-  <a href="https://github.com/Kevin-Silva-Dev">
+  <a href="https://github.com/DaianeAmorim">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kevin-Silva-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Silva-Dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
